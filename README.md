@@ -31,7 +31,7 @@ This repository contains the code and resources for Homework Week 6 of the Capst
    mkdir build && cd build
    ```
 4. Make sure to configure the path of the **CUDA compiler**, **NVTOOLSEXT library** and **libtorch library**.
-![Alt text](image.png)
+![image](https://github.com/user-attachments/assets/80d0fa8d-b586-428d-8130-2a0943770eeb)
 
 5. Run CMake to configure the project with CUDA:
    ```sh
@@ -50,7 +50,8 @@ Certainly! Here’s the combined "Usage" section for your README, including both
 
 This project provides several utility functions for tensor operations and a simple feedforward neural network model for regression tasks using PyTorch. Below are the available functions and their descriptions.
 
-![Alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/c3c5fe90-3c83-4479-bec9-23744a484b41)
+
 
 ### Tensor Utility Functions
 
