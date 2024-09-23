@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/admin/hungpham/NhomNhom/homework_week6/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/admin/hungpham/NhomNhom/homework_week6/include -isystem /home/admin/libtorch/include -isystem /home/admin/libtorch/include/torch/csrc/api/include -isystem /home/admin/miniconda3/envs/capstone/include -std=gnu++17 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/main.dir/src/neural_network.cpp.o -c /home/admin/hungpham/NhomNhom/homework_week6/src/neural_network.cpp",
+  "file": "/home/admin/hungpham/NhomNhom/homework_week6/src/neural_network.cpp",
+  "output": "CMakeFiles/main.dir/src/neural_network.cpp.o"
+},
+{
+  "directory": "/home/admin/hungpham/NhomNhom/homework_week6/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/admin/hungpham/NhomNhom/homework_week6/include -isystem /home/admin/libtorch/include -isystem /home/admin/libtorch/include/torch/csrc/api/include -isystem /home/admin/miniconda3/envs/capstone/include -std=gnu++17 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/main.dir/src/basic_tensor.cpp.o -c /home/admin/hungpham/NhomNhom/homework_week6/src/basic_tensor.cpp",
+  "file": "/home/admin/hungpham/NhomNhom/homework_week6/src/basic_tensor.cpp",
+  "output": "CMakeFiles/main.dir/src/basic_tensor.cpp.o"
+},
+{
+  "directory": "/home/admin/hungpham/NhomNhom/homework_week6/build",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/admin/hungpham/NhomNhom/homework_week6/include -isystem /home/admin/libtorch/include -isystem /home/admin/libtorch/include/torch/csrc/api/include -isystem /home/admin/miniconda3/envs/capstone/include -std=gnu++17 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/admin/hungpham/NhomNhom/homework_week6/src/main.cpp",
+  "file": "/home/admin/hungpham/NhomNhom/homework_week6/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]
