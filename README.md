@@ -31,7 +31,8 @@ This repository contains the code and resources for Homework Week 6 of the Capst
    mkdir build && cd build
    ```
 4. Make sure to configure the path of the **CUDA compiler**, **NVTOOLSEXT library** and **libtorch library**.
-![image](https://github.com/user-attachments/assets/80d0fa8d-b586-428d-8130-2a0943770eeb)
+![image](https://github.com/user-attachments/assets/b2a0910b-c4b9-44fe-9fe6-f3bd35eeb886)
+
 
 5. Run CMake to configure the project with CUDA:
    ```sh
