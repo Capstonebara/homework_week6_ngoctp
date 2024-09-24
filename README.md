@@ -51,7 +51,8 @@ Certainly! Here’s the combined "Usage" section for your README, including both
 
 This project provides several utility functions for tensor operations and a simple feedforward neural network model for regression tasks using PyTorch. Below are the available functions and their descriptions.
 
-![image](https://github.com/user-attachments/assets/c3c5fe90-3c83-4479-bec9-23744a484b41)
+![image](https://github.com/user-attachments/assets/98fbc319-073e-4733-b585-1bca782a1650)
+
 
 
 ### Tensor Utility Functions
