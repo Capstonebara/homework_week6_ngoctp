@@ -1,0 +1,3 @@
+/home/admin/hungpham/NhomNhom/homework_week6_ngoctp/build/CMakeFiles/main.dir
+/home/admin/hungpham/NhomNhom/homework_week6_ngoctp/build/CMakeFiles/edit_cache.dir
+/home/admin/hungpham/NhomNhom/homework_week6_ngoctp/build/CMakeFiles/rebuild_cache.dir
